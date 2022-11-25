@@ -1,0 +1,5 @@
+{
+	"cassandra.amar.keyspacename": "test_cassandra",
+	"cassandra.amar.contactpoints": "127.0.0.1",
+	"cassandra.amar.port": "9042"
+}
